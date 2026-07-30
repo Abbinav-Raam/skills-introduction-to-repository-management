@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Abbinav-Raam
+/src/backend/database.py      @Abbinav-Raam
+/src/backend/routers/auth.py  @Abbinav-Raam
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Abbinav-Raam
